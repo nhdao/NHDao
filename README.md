@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NHDao
-- 👀 I’m interested in Full Stack Develop
-- 🌱 I’m currently learning Javascript, ReacJs, NodeJs
+- 👋 Hi, I’m @nhdao
+- 👀 I’m interested in Back-End and some data related things
+- 🌱 I’m currently learning Javascript, Typescript, ReacJs, NodeJs, NestJs
 - 📫 How to reach me: nguyenhoangdao1609@gmail.com
 
 <!---
