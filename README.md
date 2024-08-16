@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nhdao
-- 👀 I’m interested in Back-End and some data related things
-- 🌱 I’m currently learning Javascript, Typescript, ReacJs, NodeJs, NestJs
+- 👀 I’m interested in Back-End and some data related things (hopefully some Blockchain tech in the future)
+- 🌱 I’m currently learning Javascript, Typescript, NodeJs, NestJs
 - 📫 How to reach me: nguyenhoangdao1609@gmail.com
 
 <!---
